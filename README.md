@@ -70,13 +70,14 @@
 ### Haciendo merge con los remotos
 ![alt text](image-27.png)
 ### Trackeando remotos
-
+![alt text](image-28.png)
 ### Parámetros de git push
-
+![alt text](image-29.png)
 ### ¡Más! Parámetros de git push
-
+![alt text](image-30.png)
 ### Parámetros de fetch
-
+![alt text](image-31.png)
 ### Origen de nada
-
+![alt text](image-32.png)
 ### Parámetros de pull
+![alt text](image-33.png)
