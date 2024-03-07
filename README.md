@@ -39,36 +39,36 @@
 
 ## Temas avanzados
 ### Rebaseando más de 9000 veces
-
+![alt text](image-15.png)
 ### Múltiples padres
-
+![alt text](image-16.png)
 ### Ensalada de ramas
-
+![alt text](image-17.png)
 
 # Remota
 ## Push y Pull -- Git Remotes!
 ### introducción a clone
-
+![alt text](image-18.png)
 ### Ramas remotas
-
+![alt text](image-19.png)
 ### git fetch
-
+![alt text](image-20.png)
 ### git pull
-
+![alt text](image-21.png)
 ### Simulando el trabajo en equipo
-
+![alt text](image-22.png)
 ### git push
-
+![alt text](image-23.png)
 ### Historia divergente
-
+![alt text](image-24.png)
 ### Main bloqueado
-
+![alt text](image-25.png)
 
 ## Hasta el origen y más allá -- Git Remotes avanzado!
 ### ¡Push Main!
-
+![alt text](image-26.png)
 ### Haciendo merge con los remotos
-
+![alt text](image-27.png)
 ### Trackeando remotos
 
 ### Parámetros de git push
